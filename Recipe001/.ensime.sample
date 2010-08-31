@@ -1,0 +1,14 @@
+;; This config was generated using ensime-config-gen. Feel free to customize its contents manually. 
+
+(
+
+:server-root "/home/clairvy/.emacs.d/ensime/dist/"
+
+:project-package "com.example.android.recipe001"
+
+:use-sbt t
+
+:compile-jars ("/home/clairvy/modules/android-sdk-mac_86/platforms/android-2.1/android.jar")
+
+)
+
