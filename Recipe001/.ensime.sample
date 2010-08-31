@@ -2,13 +2,13 @@
 
 (
 
-:server-root "/home/clairvy/.emacs.d/ensime/dist/"
+:server-root "/usr/local/ensime/"
 
 :project-package "com.example.android.recipe001"
 
 :use-sbt t
 
-:compile-jars ("/home/clairvy/modules/android-sdk-mac_86/platforms/android-2.1/android.jar")
+:compile-jars ("/usr/local/android-sdk-mac_86/platforms/android-2.1/android.jar")
 
 )
 
